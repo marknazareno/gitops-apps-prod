@@ -1,5 +1,5 @@
 bases:
-  - ../../base/spring-boot-demo
+  - ../base/spring-boot-demo
 commonLabels:
   env: prod
 
