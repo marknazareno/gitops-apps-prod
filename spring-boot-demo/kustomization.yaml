@@ -1,0 +1,8 @@
+bases:
+  - ../../base/spring-boot-demo
+commonLabels:
+  env: prod
+
+replicas:
+- name: spring-boot-demo
+  count: 2
