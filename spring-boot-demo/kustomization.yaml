@@ -2,7 +2,8 @@ resources:
   - github.com/marknazareno/gitops-apps-base/spring-boot-demo
 commonLabels:
   env: prod
-
 replicas:
-- name: spring-boot-demo
-  count: 2
+  - name: spring-boot-demo
+    count: 2
+images:
+  - newTag: 21e38cfe076ff0c691fd6ec8985a283b169b5f69
