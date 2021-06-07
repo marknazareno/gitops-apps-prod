@@ -7,4 +7,4 @@ replicas:
     count: 2
 images:
   - name: ghcr.io/marknazareno/spring-boot-demo
-    newTag: ca7cf95a75d9995e8401f750d1d55ea2a44e5834
+    newTag: 7fad41e06f492d86a4541331831b9b46c191baf5
