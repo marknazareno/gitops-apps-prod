@@ -1,5 +1,5 @@
 resources:
-  - github.com/marknazareno/gitops-apps-base/spring-boot-demo?ref=42b4b6a351095fa548e0471952e29c270f0f3966
+  - github.com/marknazareno/gitops-apps-base/spring-boot-demo?ref=1a1998e405d911142fdced14a0043657b212b627
 commonLabels:
   env: prod
 replicas:
